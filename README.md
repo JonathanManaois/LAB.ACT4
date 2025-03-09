@@ -1,2 +1,5 @@
 # LAB.ACT4
-POGI KO
+GRADE KO TO!
+
+Function that assigns a letter grade to student based on thier scores.
+YOUTUBE LINK: (https://youtu.be/JN2nP3DVXAM)
